@@ -1,0 +1,69 @@
+.header {display: inline-block; color: black; padding-bottom: 14;}
+.header-line {background-color: #e9effd;}
+.banner {margin: 0 25 50 25; display: inline-block;}
+footer {background-color: #e9effd; border-top: 1px solid black; padding: 10 0 10 20; margin: 10 0 0 0;}
+.line { 
+position: absolute;
+width: 0px;
+height: 26.7px;
+border-color: #363e97;
+border-width: 1px;
+border-style: solid;
+background: #3d58a6;}
+.social-icons {margin: 5 10 5 10;}
+
+.header-line {
+    overflow: hidden;
+    background-color: #e9effd;
+  }
+  
+  .header-line a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .header-line a:hover {
+    background-color: #dde1ec;
+    color: rgb(0, 0, 0);
+  }
+  
+.header-line a.header {background-color: aqua;}
+
+/*containers*/
+.both-container-header {
+  margin-left: 100; font-size: 20px;
+}
+/*container 1    */
+.container-1 {
+margin: 20 50 50 100; display: inline-block; background-color: aliceblue;
+}
+
+.block-inside-header-1 {
+  margin-bottom: 10px; padding: 5px;
+}
+
+.logo-1 {
+  display: inline-block; vertical-align: middle; margin-right: 50px;
+}
+.text-main-1 {
+  display: inline-block; width: 300px; height: 100px; padding: 20px; vertical-align: middle;
+}
+/*container 2  */
+.container-2 {
+  margin: 20 50 50 50; display: inline-block; background-color: aliceblue;
+  }
+  
+  .block-inside-header-2 {
+    margin-bottom: 10px; padding: 5px;
+  }
+  
+  .logo-2 {
+    display: inline-block; vertical-align: middle; margin-right: 50px;
+  }
+  .text-main-2 {
+    display: inline-block; width: 300px; height: 100px; padding: 20px; vertical-align: middle;
+  }

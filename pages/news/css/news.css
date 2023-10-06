@@ -1,0 +1,105 @@
+body {
+  background-color: #e4e3d9;
+}
+.header {display: inline-block; color: black; padding-bottom: 14;}
+.header-line {background-color: #000000;}
+.banner {margin: 0 100; display: inline-block;}
+footer {background-color: #e9effd; border-top: 1px solid black; padding: 10 0 10 20; margin: 10 0 0 0;}
+.line { 
+position: absolute;
+width: 0px;
+height: 26.7px;
+border-color: #363e97;
+border-width: 1px;
+border-style: solid;
+background: #3d58a6;}
+.social-icons {margin: 5 10 5 10;}
+
+.header-line {
+    overflow: hidden;
+    background-color: #e9effd;
+  }
+  
+  .header-line a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .header-line a:hover {
+    background-color: #dde1ec;
+    color: rgb(0, 0, 0);
+  }
+  
+.header-line a.header {background-color: #00ffff;}
+
+/*---------------------- article section 1 -----------------  */
+
+.article-container-1 {
+  /*display: inline-block;*/ height: 300px; width: auto; background-color: #e1ebeb;
+  }
+
+.article-header-1 {
+  font-size: 20px;
+  margin: 10 0 0 50;
+  padding-top: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.article-img {
+width: 250px;
+height: 200px;
+vertical-align: middle;
+margin-left: 50px;
+margin-top: 20px;
+
+
+}
+
+.article-text-1 {
+  display: inline-block;
+height: 200px;
+width: 800px;
+vertical-align: middle;
+padding: 50px;
+margin-top: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*---------------------- article section 2 -----------------  */
+
+.article-container-1 {
+  /*display: inline-block;*/ height: 300px; width: auto; background-color: #e1ebeb;
+  }
+
+.article-header-1 {
+  font-size: 20px;
+  margin: 10 0 0 50;
+  padding-top: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.article-img {
+width: 250px;
+height: 200px;
+vertical-align: middle;
+margin-left: 50px;
+margin-top: 20px;
+
+
+}
+
+.article-text-1 {
+  display: inline-block;
+height: 200px;
+width: 800px;
+vertical-align: middle;
+padding: 50px;
+margin-top: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
