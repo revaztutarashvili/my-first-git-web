@@ -137,3 +137,37 @@ padding: 50px;
 margin-top: 20px;
 font-family:'Times New Roman', Times, serif
 } 
+
+/*---------------------- article section 4 -----------------  */
+
+.article-container-4 {
+  /*display: inline-block;*/ height: 300px; width: auto; background-color: #e1ebeb;
+  }
+
+.article-header-4 {
+  font-size: 20px;
+  margin: 10 0 0 50;
+  padding-top: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.article-img {
+width: 250px;
+height: 200px;
+vertical-align: middle;
+margin-left: 50px;
+margin-top: 20px;
+
+
+}
+
+.article-text-4 {
+  display: inline-block;
+height: 200px;
+width: 800px;
+vertical-align: middle;
+padding: 50px;
+margin-top: 20px;
+font-family:'Times New Roman', Times, serif
+} 
